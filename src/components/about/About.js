@@ -8,7 +8,7 @@ const About = () => {
     return (
         <div className='about'>
             <div className="container">
-                <h2>A Growing Protocol Ecosystem</h2>
+                <h2>A Growing Protocol Ecosystem version2</h2>
                 <p>The Defi protocol system empowers developers, liquidity providers, and traders to participate in a financial marketplace that is open and accessible to all.</p>
                 <div className="card-container">
                     <div className="card">
